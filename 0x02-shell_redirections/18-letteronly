@@ -1,0 +1,2 @@
+#!/bin/bash
+grap '^[A-Za-z]' /etc/ssh/sshd_config
